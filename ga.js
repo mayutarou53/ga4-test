@@ -1,5 +1,5 @@
 // ★ここの「G-XXXXXXXXXX」を、GA4で発行された自分の測定IDに書き換える（この1か所だけ）
-var GA_MEASUREMENT_ID = 'G-15812020846';
+var GA_MEASUREMENT_ID = 'G-7Q3KQQ2JZQ';
 
 (function () {
   var s = document.createElement('script');
